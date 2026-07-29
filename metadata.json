@@ -1,0 +1,6 @@
+{
+  "name": "Confederación Mundial de Fútbol 7 (CMF7)",
+  "description": "Sitio web oficial de la CMF7 - Máxima autoridad del Fútbol 7 a nivel mundial. Resultados, rankings, torneos, estadísticas y reglamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
